@@ -5,12 +5,12 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
-  "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/amith598/youtube-downloader",
+  "success_url": "https://t.me/Youtube_bore_bot",
+  "website": "https://github.com/amith598/youtube-downloader",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
+        "API_ID": {"description": "Get this value from telegram.me/AppApiHashbot this bot on telegram", "required": true},
+        "API_HASH": {"description": "Get this value from telegram.me/AppApiHashbot this bot on telegram" , "required": true},
         "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
   },
       "buildpacks": [
